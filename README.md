@@ -1,7 +1,7 @@
 # Interactive-Mandelbrot
 An interactive Mandelbrot using a thread farm/pool made using SFML and STL threads.
 
-![GIF of Interactive Mandelbrot running](https://github.com/giodestone/Interactive-Mandelbrot/Images/GIF.gif)
+![GIF of Interactive Mandelbrot running](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/GIF.gif)
 
 # How to use
 WSAD, Arrow Keys, or Numpad 8, 6, 4, 2 to move;
@@ -18,10 +18,10 @@ Key tasks are:
 * 'Desaturate tile' (Dim the tile to tell the user that it's out of date)
 
 # More Images
-![Zoomed part of the Mandelbrot set](https://github.com/giodestone/Interactive-Mandelbrot/Images/Zoomed Section.png)
-![Home Page of application](https://github.com/giodestone/Interactive-Mandelbrot/Images/Home Page.png)
-![Another zoomed part of the Mandelbrot Set](https://github.com/giodestone/Interactive-Mandelbrot/Images/Zoomed 2.png)
-![Rendering a scene](https://github.com/giodestone/Interactive-Mandelbrot/Images/Rendering.png)
+![Zoomed part of the Mandelbrot set](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Zoomed Section.png)
+![Home Page of application](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Home Page.png)
+![Another zoomed part of the Mandelbrot Set](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Zoomed 2.png)
+![Rendering a scene](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Rendering.png)
 
 # Implementation Notes
 Uses SFML to not spend time implementing repetitive things.
