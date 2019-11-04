@@ -1,6 +1,8 @@
 # Interactive-Mandelbrot
 An interactive Mandelbrot using a thread farm/pool made using SFML and STL threads.
 
+[Download Here!](https://github.com/giodestone/Interactive-Mandelbrot/releases)
+
 ![GIF of Interactive Mandelbrot running](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/GIF.gif)
 
 # How to use
