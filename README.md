@@ -5,7 +5,7 @@ An interactive Mandelbrot using a thread farm/pool made using SFML and STL threa
 
 # How to use
 WSAD, Arrow Keys, or Numpad 8, 6, 4, 2 to move;
-+ and - (including Numpad) to zoom;
+Plus and Minus (including numpad) to zoom;
 R to reset view.
 
 # How it works
@@ -18,9 +18,9 @@ Key tasks are:
 * 'Desaturate tile' (Dim the tile to tell the user that it's out of date)
 
 # More Images
-![Zoomed part of the Mandelbrot set](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Zoomed Section.png)
-![Home Page of application](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Home Page.png)
-![Another zoomed part of the Mandelbrot Set](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Zoomed 2.png)
+![Zoomed part of the Mandelbrot set](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Zoomed%20Section.png)
+![Home Page of application](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Home%20Page.png)
+![Another zoomed part of the Mandelbrot Set](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Zoomed%202.png)
 ![Rendering a scene](https://github.com/giodestone/Interactive-Mandelbrot/blob/master/Images/Rendering.png)
 
 # Implementation Notes
