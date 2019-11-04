@@ -1,0 +1,25 @@
+﻿  CMP202Coursework.cpp
+  DesaturateTileTask.cpp
+  DrawingManager.cpp
+c:\users\feliks\documents\github public projects\interactive-mandelbrot\source\cmp202coursework\drawingmanager.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\feliks\documents\github public projects\interactive-mandelbrot\source\cmp202coursework\drawingmanager.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\feliks\documents\github public projects\interactive-mandelbrot\source\cmp202coursework\drawingmanager.cpp(37): warning C4018: '<': signed/unsigned mismatch
+c:\users\feliks\documents\github public projects\interactive-mandelbrot\source\cmp202coursework\drawingmanager.cpp(189): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+  Farm.cpp
+  Logger.cpp
+  Mandelbrot.cpp
+  RedrawTileTask.cpp
+  Tile.cpp
+c:\users\feliks\documents\github public projects\interactive-mandelbrot\source\cmp202coursework\tile.cpp(13): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating code
+  All 724 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CMP202Coursework.vcxproj -> C:\Users\Feliks\Documents\Github Public Projects\Interactive-Mandelbrot\Source\x64\Release\CMP202Coursework.exe
